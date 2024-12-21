@@ -8,6 +8,8 @@ The Podcast Discovery and Reward DApp is a decentralized application that empowe
 
 ## Contract Address
 0x0EeF90F9c200Aec3C5121c925A86Ee30e4caa53E
+![image](https://github.com/user-attachments/assets/241914c4-2052-4696-9a79-0df2aebee6e7)
+
 
 ## Project Vision
 The vision of the Podcast Discovery and Reward DApp is to create a decentralized, fair, and community-driven platform for podcast discovery and creator rewards. By eliminating intermediaries, we aim to empower creators and incentivize content curation through a transparent tipping mechanism.
